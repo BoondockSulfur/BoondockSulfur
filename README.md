@@ -2,7 +2,7 @@
 
 # Hey, I'm BoondockSulfur
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=750&lines=Developer+%7C+Tinkerer+%7C+Creator;Minecraft+Plugins+%7C+Desktop+Apps+%7C+Web;11+Modrinth+Plugins+%7C+12k%2B+Downloads" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=750&lines=Developer+%7C+Tinkerer+%7C+Creator;Minecraft+Plugins+%7C+Desktop+Apps+%7C+Web;Minecraft+Plugins+on+Modrinth" alt="Typing SVG" />
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/BoondockSulfur)
 [![Website](https://img.shields.io/badge/boondocksulfur.de-4169E1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://boondocksulfur.de)
@@ -102,13 +102,5 @@ Developer who loves building practical tools and experimenting with new technolo
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BoondockSulfur/BoondockSulfur/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/BoondockSulfur/BoondockSulfur/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BoondockSulfur&color=4169E1&style=for-the-badge)
 
 </div>
